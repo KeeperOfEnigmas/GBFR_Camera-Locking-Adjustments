@@ -1,7 +1,0 @@
-v 1.0.0:
-> Initial release
-    - Completely disables soft lock for melee attacks.
-    - Range attacks and skybound arts(SBA) aren't affected.
-
-v 1.0.1:
-> Add support for Reloaded II

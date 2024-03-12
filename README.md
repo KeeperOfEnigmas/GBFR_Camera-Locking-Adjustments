@@ -1,2 +1,2 @@
 # GBFR_Camera-Locking-Adjustments
-Camera and lock on mod for GBFR.
+Camera and locking mod for GBFR.

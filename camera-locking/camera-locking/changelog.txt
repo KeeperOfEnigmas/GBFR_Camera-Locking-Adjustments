@@ -1,0 +1,7 @@
+v 1.0
+> Folder name: dis=6.5_fov=1.1
+    - Add special version of the main file with camera distance = 6.5 and fov = 1.1
+
+v 0.1.1
+> Updates alongside main file.
+> Version name change to be the same as the main file.

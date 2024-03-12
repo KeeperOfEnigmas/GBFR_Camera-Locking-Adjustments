@@ -1,0 +1,23 @@
+v 0.0.1:
+> Initial release
+> 初始更新。
+
+v 0.0.2:
+> Add support for Reloaded II
+> 支持mod管理器。
+
+v 0.1.0:
+> Adjust hard lock target selection.
+    - Now prioritize targets that are close to the center of the screen rather than close to player.
+    - Very far away targets are still excluded. 
+    - If multiple targets stack together in the center of the screen, the one that is relatively close to you will be locked.
+    - Doesn't affect selection of target parts.
+> 调整了硬锁的目标选择逻辑。
+    - 现在优先锁定屏幕中间的目标，而不是距离比较近的。
+    - 非常远的目标不会被锁。
+    - 如果多个目标在中间叠了起来，会选择一个相对比较近的。
+    - 不影响目标部位的选择。
+
+v 0.1.1:
+> Add camera fix for Gran, Djeeta, Siegfried, Charlotta, Yodarha, Vaseraga.
+> 增加了以下角色的镜头修复：古兰，姬塔，齐格飞，夏洛特，尤达拉哈，巴萨拉卡。

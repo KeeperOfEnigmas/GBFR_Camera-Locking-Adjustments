@@ -1,7 +1,0 @@
-v 1.0.0:
-> Initial release
-    - As far as I am testing, this doesn't fix every camera movement that the game forces you to do, but it does feel a bit better personally.
-    - Camera zoom seems to be unaffected.
-
-v 1.0.1:
-> Add support for Reloaded II

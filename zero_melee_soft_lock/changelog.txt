@@ -5,3 +5,7 @@ v 1.0.0:
 
 v 1.0.1:
 > Add support for Reloaded II
+
+v 1.1:
+> Add an option to completely disable soft lock. 
+    - Install different option by overwriting the main mod file. (Preserve the same paths.) 

@@ -2,7 +2,7 @@
   "ModId": "gbfr.player.no_melee_sl",
   "ModName": "No Melee Soft Lock",
   "ModAuthor": "KeeperOfEnigmas",
-  "ModVersion": "1.0.1",
+  "ModVersion": "1.1",
   "ModDescription": "Completely disables soft lock for melee attacks.",
   "ModDll": "",
   "ModIcon": "",

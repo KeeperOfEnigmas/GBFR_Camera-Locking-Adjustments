@@ -38,18 +38,24 @@ v 1.0c:
 > Version naming style change if you care.
 > 修改了版本命名方式。 
 
-v 1.1
-> This mod is combined with fixes for proto bahamut (em7000).
+v 1.1:
+> Combined with fixes for proto bahamut (em7000).
 > Lucilius (em7700)
-    - Adjustment the camera distance and height.
-    - Adjust camera angle of hard lock. 
-    - Disable fixed camera angle during the trial.  
+    - Adjusts the camera distance and height.
+    - Adjusts camera angle of hard lock. 
+    - Disables fixed camera angle during the trial.  
 > The game still forces auto turning sometimes. 
 > Remove files for specific bosses according to the id (em: the actual boss, we: the weapon). 
-> 整合了原初巴哈姆特。
+> 整合了原初巴哈姆特的调整（em7700）。
 > 路西法。
     - 调整了镜头的距离与高度。
     - 调整了硬锁的镜头角度。
     - 取消了试炼中的固定镜头角度。
 > 自动转向有时任然有效。
 > 可根据id删除个别boss的文件（em: 本体， we：武器）。
+
+v 1.1a:
+> Adjusts parameters.
+> Add additional adjustments.
+> 调整数值。
+> 增加额外调整。
